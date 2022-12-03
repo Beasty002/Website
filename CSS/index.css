@@ -30,3 +30,44 @@ h1 {
     text-orientation: upright;
     text-shadow: 0 0 4px #fbfbf8;
 }
+
+h2 {
+    color: rgb(0, 0, 0);
+    text-align: center;
+    font-weight: bolder;
+    font-size: 60px;
+    writing-mode: sideways-lr;
+    text-orientation: upright;
+    text-shadow: 0 0 4px #fbfbf8;
+}
+
+.desc {
+    color: white;
+    font-weight: 500;
+    font-size: 20px;
+    margin-right: 20%;
+    font-family: cursive;
+}
+
+img {
+    height: 300px;
+    border-radius: 100%;
+}
+
+.first {
+    color: white;
+}
+
+.name {
+    color: rgba(255, 0, 0, 0.441);
+    text-align: left;
+    font-weight: 500;
+    font-size: 25px;
+    margin-right: 20%;
+    font-family: 'Times New Roman', Times, serif;
+    text-decoration: underline rgba(0, 0, 0, 0.591);
+    text-align: center;
+    align-items: center;
+    align-content: center;
+    margin-left: 20%;
+}
