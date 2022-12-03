@@ -22,11 +22,11 @@ svg {
 }
 
 h1 {
-    color: rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
     text-align: center;
     font-weight: bolder;
     font-size: 100px;
     writing-mode: sideways-lr;
     text-orientation: upright;
-    text-shadow: 0 0 4px #fff000;
+    text-shadow: 0 0 4px #fbfbf8;
 }
